@@ -7,14 +7,15 @@ Mr. Problem-Solver ⚡
 
 <!-- Contacts -->
 <h3 align="center">You can contact me here</h3>
-<div align="center" style="margin-bottom: 20px;">
+
+<p align="center">
   <a href="https://github.com/cipher1302">
-    <img src="https://img.shields.io/badge/GitHub-272822?logo=github&logoColor=b89b26&style=for-the-badge" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/GitHub-%23121212?style=for-the-badge&logo=github&logoColor=%23ff6ec7" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-    <img src="https://img.shields.io/badge/LinkedIn-272822?logo=linkedin&logoColor=A6E22E&style=for-the-badge" alt="LinkedIn" /></a>
- <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-272822?logo=telegram&logoColor=4d608b&style=for-the-badge" alt="Telegram" /></a>
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-%23121212?style=for-the-badge&logo=linkedin&logoColor=%23de2ef0" alt="LinkedIn" /></a>
+  <a href="https://t.me/dr1veR" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%23121212?style=for-the-badge&logo=telegram&logoColor=%23ff2975" alt="Telegram" /></a>
+</p>
 
 
 
