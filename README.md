@@ -1,8 +1,8 @@
 <!-- Title -->
 <h1 align="center">𓆝 𓆟 Welcome to my page! 𓆞 𓆝 𓆟</h1>
 <p align="center">
-Hi, I'm <strong>Nikita Ivashchenko (Nick)</strong> 👋<br>
-Mr. Problem-Solver & Experimenter ⚡
+Hi, I'm <strong>Nikita Ivashchenko (Just call me Nick)</strong> 👋<br>
+Mr. Problem-Solver ⚡
 </p>
 
 <!-- Contacts -->
@@ -30,23 +30,25 @@ Mr. Problem-Solver & Experimenter ⚡
 <details>
   <summary><b>👤 About me</b></summary>
     <p>
-      <img align="right" width="250" src="image001.jpg" alt="NEO" />
+      <img align="right" width="250" src="syntwave.gif" alt="NEO" />
       
 <blockquote>
 
-I'm a Backend developer based in Ukraine, i have completed GoIT FullStack Courses that gave me understanding of Node.js and React Developing principles. After that I've studied Laravel/Node.js by myself (for freelance purposes). 
+I'm a Fullstack developer based in Ukraine, i have completed GoIT FullStack Courses that gave me understanding of Node.js and React Developing principles. After that I've studied Laravel/Node.js by myself (for freelance purposes). 
 
-I also participated in Meduzzen Fullstack Internship as Python/FastAPI developer. And that's the moment when i fell in love with Python and it became quite a good addition to my Node stack 🐍💚
+I also took part in the Meduzzen Fullstack Internship as a Python/FastAPI developer. This experience really broadened my understanding of how the backend of web applications works, including working with Redis, Docker, Auth0, and other tools.
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
-My favorite code editor theme is Rosé Pine
+My favorite code editor theme is <strong>Noctis (Obscuro)</strong>.
 
-If you ask me whether I prefer backend or frontend, I would say that backend development is much closer to me, because dealing with data and data flows suits my mindset better, though I can use frontend when it’s needed as a supporting part.
+If you ask me whether I prefer backend or frontend, I’d say backend feels more natural to me. Working with data, logic, and flows just matches the way I think.
 
-I absolutely LOVE experiments when it comes to coding 🧪 (of course if it's logically justified)
+That said, I actually enjoy frontend a lot too — mostly because it’s challenging. It constantly throws new problems at you, and I like that kind of complexity. It pushes me out of my comfort zone and makes me grow.
 
-When I'm not at the keyboard, I like playing chess, listening to the radio and learning psychology ♟️📻🧠.
+I’m very much a hands-on developer 🛠️ — I focus on practical approaches that actually work in real projects. I like applying solutions that make sense, get results, and improve the way things run, rather than just following trends or theoretical ideas.
+
+When I’m away from the keyboard, I like doing sports, tuning into synthwave or the radio, and diving into psychology
 
 </blockquote>
     
@@ -65,7 +67,7 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
     <kbd>Backend</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img width="150px" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" />
+    <img width="90px" src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
   </a>
   </kbd>
 
@@ -73,14 +75,14 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
     <kbd>Frontend</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img width="150px" src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img width="130px" src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
   </a>
   </kbd>
   <kbd style="padding:10px;">
     <kbd>Database</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img width="75px"  src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+    <img width="50px"  src="https://skillicons.dev/icons?i=postgresql,mongodb" />
   </a>
   </kbd>
   </kbd>
@@ -88,7 +90,7 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
     <kbd>Tools</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img width="110px"  src="https://skillicons.dev/icons?i=git,postman,docker" />
+    <img width="75px"  src="https://skillicons.dev/icons?i=git,postman,docker" />
   </a>
   </kbd> 
 </details>
