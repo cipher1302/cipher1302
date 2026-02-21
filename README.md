@@ -41,7 +41,7 @@ I also took part in the Meduzzen Fullstack Internship as a Python/FastAPI develo
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
-My favorite code editor theme is <strong>Noctis (Obscuro)</strong>.
+My favorite code editor theme is <strong>Noctis</strong>.
 
 If you ask me whether I prefer backend or frontend, I’d say backend feels more natural to me. Working with data, logic, and flows just matches the way I think.
 
