@@ -13,7 +13,7 @@ Mr. Problem-Solver ⚡
     <img src="https://img.shields.io/badge/GitHub-%23121212?style=for-the-badge&logo=github&logoColor=%23ff6ec7" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
     <img src="https://img.shields.io/badge/LinkedIn-%23121212?style=for-the-badge&logo=linkedin&logoColor=%23de2ef0" alt="LinkedIn" /></a>
-  <a href="https://t.me/dr1veR" target="_blank">
+  <a href="https://t.me/dr1veR_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%23121212?style=for-the-badge&logo=telegram&logoColor=%23ff2975" alt="Telegram" /></a>
 </p>
 
